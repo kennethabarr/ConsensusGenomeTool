@@ -67,4 +67,3 @@ dependencies:
       - scipy==1.14.1
       - six==1.16.0
       - vireosnp==0.5.8
-prefix: /project2/gilad/kenneth/miniforge3/envs/vireo
